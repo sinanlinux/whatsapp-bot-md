@@ -1,5 +1,5 @@
 {
-  "name": "levanter@5.2.3",
+  "name": "sinanex@1.0",
   "description": "",
   "keywords": ["noedjs"],
   "success_url": "/",
@@ -17,7 +17,7 @@
     "SUDO": {
       "description": "admin",
       "required": false,
-      "value": ""
+      "value": "sinan"
     },
     "PREFIX": {
       "description": "prefix, check for more",
@@ -32,7 +32,7 @@
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "❤️,sinnn"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
@@ -50,7 +50,7 @@
     "LANGUAG": {
       "description": "Default Language for tts or trt",
       "required": false,
-      "value": "en"
+      "value": "ml"
     },
     "WARN_LIMIT": {
       "description": "Maximum number of wanings to a person.",
